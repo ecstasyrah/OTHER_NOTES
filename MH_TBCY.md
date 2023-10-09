@@ -131,7 +131,8 @@
   <summary>General Categories of Common MHD</summary>
 
   ### Mood Disorders
-  1.**Major Depressive disorder** - Persisten feelings of sadness
+  1.**Major Depressive disorder** - Persistent feelings of sadness
+
   2. **Bipolar disorder** - mood swings (depressive/manic episodes)
      
   ### Anxiety Disorder
