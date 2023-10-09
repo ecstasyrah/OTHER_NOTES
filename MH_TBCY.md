@@ -17,7 +17,7 @@
 
 ### Symptoms
 
-| Physical                     | Psycological                          |
+| Physical                     | Psychological                          |
 | ---                          | ---                                   |
 | Increase heart rate & bp     | Anxiety & worry                       |
 | Muscle Tension & pain        | Irritability / mood swings            |
