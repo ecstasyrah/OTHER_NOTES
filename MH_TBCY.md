@@ -205,6 +205,11 @@
 <details>
   <summary>Prevalence of mental health disorder</summary>
 
+  ## Prevalence
+  > The total number of individuals in a population who have a disease/health condition at a specific period of time
+> 
+> Percentage of a population
+
   1. **General Prevalence**
      > 3.3m living with MHD
   2. **Specific diorders**
