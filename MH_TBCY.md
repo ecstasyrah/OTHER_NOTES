@@ -1,4 +1,91 @@
 <details>
+   <summary>Mental Health</summary>
+
+# Mental Health
+
+**RA 11036 Mental Health Act of the Philippines**
+- The state commits itself to promoting the well being of people by ensuring that Mental health is:
+  - **Valued**
+  - **Promoted**
+  - **Protected**
+  - Mental conditions are **treated and prevented**
+- Service are free from coercion and accountable to the service users.
+- people affected are able to exercise the full range of human rights and participate fully in society adn at work free from stigmazation and discrimination
+
+### Importance of Mental Health
+
+> Mental and Physical health are equally important components of overall health
+>
+> plays a crucial role in relationships
+>
+> affects the quality of life
+
+### What happens if we neglect our mental health
+- Chronic physical health issues
+- Instability in your daily life
+- **Incarceration** - prison
+- Suicide
+
+### Common mental health issues in PH
+- Major depressive disorder
+- Anxiety
+- Substance Use
+</details>
+
+<details>
+   <summary>Stigma</summary>
+
+   # Stigma on mental Health
+
+**MISCONCEPTIONS, DISCRIMINATIONS, MISUNDERSTANDING**
+
+- Involves **negative attitudes/discrimination** against someone based on a disgusting characteristics such as a mental illness, health condition/disability
+- **Social Stigmas**
+  - can be related to other characteristics like **gender, sexuality, race, religion, and culture**
+- lack of awarenes -> **misunderstandings, misinterpretations** regarding mental health
+- can affect people with  mental illness
+</details>
+
+<details>
+   <summary>History</summary>
+
+   # History of Stigma
+   - **Ancient Beliefs**
+     - In ancient civilizations, mental illnesses were of then attributed to supernatural cause such as possession by evil spirits
+   - **Medieval Views**
+     - in middle ages MI was often associated with **Demon possession/moral weakness**
+   - **Asylums and institutionalization**
+   - **Media Portrayals**
+     - Erronoeus media portrayal regarding mental illnesses/challenges.
+   - **Stigmatizing Language**
+   - **Cultural Factors**
+     - influenced perceptions of mental health.
+</details>
+
+<details>
+
+   <summary>Factors</summary>
+
+   # Protective Factors
+
+   - **Stable Family Environment**
+   - **Access to education and Resources**
+   - **Healthy Lifestyle Choices**
+   - **Strong Problem-Solving Skills**
+
+   # Risk Factors
+   - **Genetic Predisposition**
+   - **Traumatic Experiences**
+   - **Chronic Stress**
+   - **Substance Abuse**
+   - **Social isolation**
+   - **Chronic Medical Conditions**
+   - **Major Life Changes**
+   - **Poverty and Socioeconomic Disadvantage**
+</details>
+
+
+<details>
 
 <summary> Stress and Mental Health</summary>
 
@@ -17,7 +104,7 @@
 
 ### Symptoms
 
-| Physical                     | Psychological                          |
+| Physical                     | Psychological                         |
 | ---                          | ---                                   |
 | Increase heart rate & bp     | Anxiety & worry                       |
 | Muscle Tension & pain        | Irritability / mood swings            |
