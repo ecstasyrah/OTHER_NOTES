@@ -67,6 +67,7 @@
    <summary>Factors</summary>
 
    # Protective Factors
+   > Characteristices that enhance an individual's ability to cope with stress; reducing development of mental health problems.
 
    - **Stable Family Environment**
    - **Access to education and Resources**
@@ -74,6 +75,8 @@
    - **Strong Problem-Solving Skills**
 
    # Risk Factors
+   > Factors that increase the likelihood of a persond eveloping mental health disorders/ experiencing psychological distress.
+   
    - **Genetic Predisposition**
    - **Traumatic Experiences**
    - **Chronic Stress**
