@@ -259,8 +259,12 @@
 
 <details>
 
-  <summary>SPECIFIC MHD in the ph setting</summary>
+  <summary>Cultural syndromes</summary>
   
+  # Cultural Syndrome
+    > patterns of symptoms or behaviors that are recognized as illness or dysfunction
+
+
 ## In the PH
 
 1. **Koro** - genetalia retracing
